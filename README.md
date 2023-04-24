@@ -7,7 +7,7 @@
 
 <a href=""><img src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/vercel.svg" width="150" height="35"></a>
 
-<a href=""><img src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg" width="150" height="35"></a>
+<a href="https://vercel.com/new/import?s=https%3A%2F%2Fgithub.com%2Ftecharb2%2FSkylight&hasTrialAvailable=1&showOptionalTeamCreation=false&project-name=skylight&framework=other&totalProjects=1&remainingProjects=1"><img src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg" width="150" height="35"></a>
 </p>
 
 ### Frontend by Techarb2
