@@ -4,7 +4,7 @@
 # Installation
 You can run this on render.
 
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/render/render.svg)](https://render.com/deploy?repo=https://github.com/techarb2/Skylight)
+[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/render/render.svg)(https://render.com/deploy?repo=https://github.com/techarb2/Skylight)
 
 # Running on your own machine
 
