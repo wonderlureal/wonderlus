@@ -3,10 +3,8 @@
 # <a href='https://github.com/titaniumnetwork-dev/ultraviolet-node'>View Source</a>
 # Installation
 You can run this on render.
-<p>
-<a href="https://render.com/deploy?repo=https://github.com/techarb2/Skylight">
-  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
-</a>
+
+[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/render/render.svg)](https://render.com/deploy?repo=https://github.com/techarb2/Skylight)
 
 # Running on your own machine
 
