@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #262626;
+  background-color: #000000;
 }
 
 nav {
@@ -29,7 +29,7 @@ nav a:hover {
 }
 
 nav a.active {
-  background-color: #4c24ff;
+  background-color: #ad9df2;
   color: white;
   border-radius: 10px;
   
@@ -127,6 +127,6 @@ flex-direction: row;
     text-align: right;
     left: 25px;
     transform: translateX(-50%) translateY(-50%);
-    color: #3d7eff;
+    color: #ad9df2;
     font-size: 25px;
     letter-spacing: 3px;
