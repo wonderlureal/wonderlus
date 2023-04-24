@@ -1,7 +1,3 @@
 
  - type: web
-    env: node
-    schedule: "0 * * * *"
-    buildCommand: "true" # ensure it's a string
-    startCommand: date
     repo: https://github.com/techarb2/Skylight.git
