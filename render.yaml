@@ -1,5 +1,5 @@
 type: web
-    name: SkyyLight
+    name: skyylight
     env: node
     buildCommand: yarn build
     staticPublishPath: ./build
