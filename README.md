@@ -8,6 +8,6 @@
 <a href=""><img src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/render.svg" width="150" height="35"></a>
 </p>
 
-# Frontend by Techarb2
+## Frontend by Techarb2
 		      
 # Backend by <a href="https://github.com/titaniumnetwork-dev">Titanium Network</a> and Abnumality
