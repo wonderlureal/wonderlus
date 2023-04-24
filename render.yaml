@@ -1,6 +1,6 @@
 type: web
-    name: skyylight
-    env: node
+    name: my blog
+    env: static
     buildCommand: yarn build
     staticPublishPath: ./build
     pullRequestPreviewsEnabled: true # optional
