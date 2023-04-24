@@ -4,8 +4,7 @@
 # Installation
 You can run this on render.
 <p>
-<a href=""><img src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/render.svg" width="150" height="35"></a>
-</p>
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/techarb2/Skylight)
 
 # Running on your own machine
 
