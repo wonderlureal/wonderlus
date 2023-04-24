@@ -4,7 +4,9 @@
 # Installation
 You can run this on render.
 <p>
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/techarb2/Skylight)
+<a href="https://render.com/deploy?repo=https://github.com/techarb2/Skylight">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
 
 # Running on your own machine
 
