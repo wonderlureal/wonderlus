@@ -4,8 +4,7 @@
 # Installation
 <p>
 <a href=""><img src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/render.svg" width="150" height="35"></a>
-</p>
-<p>
+
 <a href=""><img src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/render.svg" width="150" height="35"></a>
 </p>
 # Frontend by Techarb2
