@@ -1,6 +1,5 @@
 
  - type: web
-    name: skyylight
     env: node
     schedule: "0 * * * *"
     buildCommand: "true" # ensure it's a string
