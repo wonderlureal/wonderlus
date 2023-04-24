@@ -4,18 +4,18 @@
 # Installation
 You can run this on replit.
 <p>
-<a href="https://replit.com/github/DazaSeal/Lunanom/"><img src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg" width="150" height="35"></a>
+
 </p>
 
 # Running on your own machine
 
 ```
-git clone https://github.com/DazaSeal/Lunanom/
-cd Lunanom
+git clone https://github.com/techarb2/skylight/
+cd Skylight
 git submodule update --init
 npm install
 npm start
 ```
-# Frontend by DazaSeal
+# Frontend by Techarb2
 		      
 # Backend by <a href="https://github.com/titaniumnetwork-dev">Titanium Network</a> and Abnumality
