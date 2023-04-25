@@ -32,9 +32,20 @@ h3 {
   color: white;
 }
 
-hr {
-  border: 0;
-  border-top: 8px solid white;
+.clock {
+    position: absolute;
+    width: 350px;
+    top: 98%;
+    text-align: right;
+    left: 25px;
+    transform: translateX(-50%) translateY(-50%);
+    color: #ad9df2;
+    font-size: 25px;
+    letter-spacing: 3px;
+  
+  hr.rounded {
+  border-top: 7px solid #bbb;
   border-radius: 5px;
-  color: white;
+  color: #ffffff;
+    width: 500px;
 }
