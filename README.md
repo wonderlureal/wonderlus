@@ -7,7 +7,7 @@
 
 <a href="https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Ftecharb2%2FSkylight.git&showOptionalTeamCreation=false"><img src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/vercel.svg" width="150" height="35"></a>
 
-</p>
+<p>
 
 ### Frontend by Techarb2
 		      
