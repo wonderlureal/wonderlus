@@ -132,8 +132,9 @@ flex-direction: row;
     letter-spacing: 3px;
   
   hr.rounded {
-  border-top: 8px solid #bbb;
-  border-radius: 5px;
+  border-top: 7px solid #bbb;
+  border-radius: 3px;
   color: #ffffff;
+    width: 1000px;
 }
  
