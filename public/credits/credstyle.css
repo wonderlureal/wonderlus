@@ -1,1 +1,5 @@
-.background: black;
+.body {
+background-color: black;
+  text-allign: center;
+  color: white;
+}
