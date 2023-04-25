@@ -1,13 +1,13 @@
 body {
   background-color: black;
   text-align: center;
-  color: white;
 }
 
 p {
   font-family: verdana;
   font-size: 20px;
   text-align: center;
+  cor: white;
 }
 
 .center {
