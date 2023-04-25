@@ -1,5 +1,20 @@
 .body {
 background-color: black;
-  text-allign: center;
+  text-align: center;
   color: white;
+}
+
+h1 {
+  font-size: 45.5px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 35px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 25px;
+  text-align: center;
 }
