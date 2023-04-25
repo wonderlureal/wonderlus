@@ -30,3 +30,9 @@ h3 {
   text-align: center;
   color: white;
 }
+
+hr {
+  border: 0;
+  border-top: 8px solid white;
+  border-radius: 5px;
+}
