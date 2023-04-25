@@ -4,6 +4,11 @@ body {
   color: white;
 }
 
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
 h1 {
   font-size: 45.5px;
   text-align: center;
