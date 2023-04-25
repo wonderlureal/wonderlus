@@ -44,13 +44,13 @@ nav .icon {
 
 nav2 {
   margin-top: 10.5px;
-  margin-right: 10px;
+  margin-left: 10px;
   overflow: hidden;
 }
 
 nav2 a {
   float: left;
-  margin-left: 5.5px;
+  margin-right: 5.5px;
   display: block;
   color: #ffffff;
   text-align: center;
