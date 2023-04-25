@@ -133,8 +133,8 @@ flex-direction: row;
   
   hr.rounded {
   border-top: 7px solid #bbb;
-  border-radius: 3px;
+  border-radius: 5px;
   color: #ffffff;
-    width: 1000px;
+    width: 500px;
 }
  
