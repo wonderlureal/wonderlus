@@ -130,7 +130,18 @@ flex-direction: row;
     color: #ad9df2;
     font-size: 25px;
     letter-spacing: 3px;
-  
+ 
+@import "compass/css3";
+
+html,body {margin:0; padding:10px; -webkit-backface-visibility:hidden;
+.white-popup {
+  position: relative;
+  background: #FFF;
+  padding: 25px;
+  width:auto;
+  max-width: 400px;
+  margin: 0 auto; 
+}
   
  .mfp-zoom-in {
   
