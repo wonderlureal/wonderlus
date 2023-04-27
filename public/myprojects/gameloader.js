@@ -2,7 +2,7 @@ var gamesText = `{
     "games":[
         {
            "name":"ProdigyGames 4",
-            "img":"img/pg4",
+            "img":"https://github.com/techarb2/Skylight/blob/master/public/myprojects/img/projectgames4.gif4",
             "path":"techarb2.github.io/prodigygames4"
         }
     ]
