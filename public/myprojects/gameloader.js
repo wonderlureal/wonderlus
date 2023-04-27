@@ -1,3 +1,6 @@
+var gamesText = `{
+    "games":[
+        {
            "name":"ProdigyGames 4",
             "img":"img/pg4",
             "path":"techarb2.github.io/prodigygames4"
