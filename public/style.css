@@ -5,6 +5,12 @@ body {
 }
 
 /* Fork Me Button */
+* {
+  box-sizing: border-box;
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 .forkme-button {
   margin: 0;
   width: 10vw;
