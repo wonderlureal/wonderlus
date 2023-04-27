@@ -3,7 +3,7 @@ var gamesText = `{
         {
            "name":"ProdigyGames 4",
             "img":"https://github.com/techarb2/Skylight/blob/master/public/myprojects/img/projectgames4.gif4",
-            "path":"techarb2.github.io/prodigygames4"
+            "path":"https://techarb2.github.io/prodigygames4"
         }
     ]
 }`;
