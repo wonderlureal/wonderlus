@@ -5,7 +5,7 @@ body {
   background-color: #000000;
 }
 
-/* Button 
+/* Button */
 
 * {
   box-sizing: border-box;
@@ -120,7 +120,7 @@ p {
 */
 /* END */
 
-/* BUTTON 2 */
+/* BUTTON 2
 
 .game-tile {
   background-color: #000000;
@@ -223,15 +223,7 @@ p {
   padding: 10px;
 }
 
-.badge {
-  background-color: red;
-  color: purple;
-  padding: 4px 8px;
-  text-align: center;
-  border-radius: 5px;
-}
-
-/* END */
+ END */
 
 nav {
   margin-top: 10.5px;
@@ -362,5 +354,13 @@ flex-direction: row;
   border-radius: 5px;
   color: #ffffff;
     width: 500px;
+}
+	
+ .badge {
+  background-color: red;
+  color: purple;
+  padding: 4px 8px;
+  text-align: center;
+  border-radius: 5px;
 }
  
