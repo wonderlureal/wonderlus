@@ -1,9 +1,14 @@
 var gamesText = `{
     "games":[
-        {
-           "name":"ProdigyGames 4",
+         {
+            "name":"ProdigtGames 4",
             "img":"img/pg4.png",
-            "path":"https://techarb2.github.io/prodigygames4"
+            "path":"ttps://techarb2.github.io/prodigygames4"
+        },
+        {
+           "name":"Hapara.ga",
+            "img":"img/haparagames.png",
+            "path":"https://hapara.ga"
         }
     ]
 }`;
