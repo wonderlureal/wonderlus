@@ -1,3 +1,4 @@
+import stars from "../public/backgrounds/stars.json";
 body {
   text: white;
   text-contrast: black;
