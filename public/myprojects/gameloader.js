@@ -7,7 +7,7 @@ var gamesText = `{
         },
         {
             "name":"ProdigyGames 2",
-            "img":"https://raw.githubusercontent.com/techarb2/prodigygames2/main/favicon.ico",
+            "img":"img/pg2.ico",
             "path":"https://techarb2.github.io/prodigygames2"
         },
         {
