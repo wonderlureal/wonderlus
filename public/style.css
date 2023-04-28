@@ -7,7 +7,7 @@ body {
 /* Footer */
 
 .footer {
-  color: var(--text);
+  color: black;
   margin-top: auto;
   text-align: center;
   display: flex;
@@ -123,8 +123,8 @@ h1 {
 }
 input {
 
-  width: 44px;
-  height: 44px;
+  width: 690px;
+  height: 46px;
   padding: 20px 20px;
   margin: 10px 0;
   box-sizing: border-box;
