@@ -1,13 +1,13 @@
 var gamesText = `{
     "games":[
          {
-            "name":"ProdigtGames 4",
+            "name":"ProdigyGames 4",
             "img":"img/pg4.png",
             "path":"ttps://techarb2.github.io/prodigygames4"
         },
         {
             "name":"Discord Chat",
-            "img":"img/discord.png",
+            "img":"img/ign.png",
             "path":"chat.html"
         },
         {
