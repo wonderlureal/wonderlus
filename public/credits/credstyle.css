@@ -1,8 +1,56 @@
 /* MAIN STYLE */
 body {
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-  background-color: #000000;
+  text: white;
+  text-contrast: black;
+  highlight: #2493ff;
+  background: #121212;
+  placeholder: black;
+  font-main: "Roboto";
+  font-title: "Quicksand";
+  secondary: transparent;
+  hover: transparent;
+  
+  border-radius: 6px;
+  border-radius-secondary: 30px;
+  border-radius-round: 100%;
+}
+import stars from "../public/backgrounds/stars.json";
+
+/* LINK */
+
+.link {
+  text-decoration: none;
+  color: white;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.link:hover span[class] {
+  text-decoration: underline;
+}
+
+/* END */
+/* Footer */
+
+.footer {
+  color: black;
+  margin-top: auto;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  margin-bottom: 5px;
+}
+
+.footermiddle {
+  margin: 0 auto;
+}
+
+.footersides {
+  margin: 0 10px;
 }
 
 nav {
@@ -23,23 +71,24 @@ nav a {
 }
 
 nav a:hover {
-  background-color: #0f0f0f;
+  background-color: 0b86ff;
   color: #ffffff;
   transition: 1.5s;
-  border-radius: 10px;
+  border-radius: 35px;
 }
 
 nav a.active {
-  background-color: #ad9df2;
+  background-color: #2493ff;
   color: white;
-  border-radius: 10px;
+  border-radius: 30px;
   
 }
 
 nav a.active:hover {
-  background-color: #2f00ff;
+  background-color: #0b86ff;
   color: white;
   transition: 1.5s;
+  border-radius: 35px;
 }
 
 nav .icon {
@@ -71,22 +120,25 @@ nav .icon {
 
 h1 {
   font-size: 45.5px;
+  font: Quicksand;
+  bottom: 2%;
 }
 input {
 
-  width: 52.5%;
+  width: 640px;
+  height: 46px;
   padding: 20px 20px;
   margin: 10px 0;
   box-sizing: border-box;
-  border: 1px white;
-  border-radius: 10px;
-  background-color: #ad9df2;
+  border: 3px white;
+  border-radius: 6px;
+  background-color: #2493ff;
     transition: 0.5s;
 }
 input[type=text] {
   transition: 0.5s;
-  color: blue; 
-  
+  color: black; 
+  font-size: large;
 
 }
 input:hover {
@@ -106,6 +158,15 @@ box-shadow: 0px 10px 35px 0px rgba(0,0,0,0.46);
     transition: 0.5s;
 }
 
+.searchicon {
+  fill: currentColor;
+  position: absolute;
+  height: 30px;
+  width: 30px;
+  color: black;
+  left: 7px;
+}
+
 #card1:hover, #card2:hover, #card3:hover, #card4:hover{
   background-color:  #38b5cf;
   cursor: pointer;
@@ -122,20 +183,21 @@ flex-direction: row;
   justify-content: center;
 }
 
-.clock {
+
+  .clock {
     position: absolute;
     width: 350px;
-    top: 98%;
+    top: 4%;
     text-align: right;
     left: 25px;
     transform: translateX(-50%) translateY(-50%);
-    color: #ad9df2;
+    color: #2493ff;
     font-size: 25px;
     letter-spacing: 3px;
   
   hr.rounded {
   border-top: 7px solid #bbb;
-  border-radius: 5px;
+  border-radius: 6px;
   color: #ffffff;
     width: 500px;
 }
@@ -150,12 +212,6 @@ p {
 
 .center {
   text-align: center;
-}
-
-h1 {
-  font-size: 45.5px;
-  text-align: center;
-  color: white;
 }
 
 h2 {
@@ -174,90 +230,4 @@ h3 {
   /* RAINBOW TEXT*/
   
   
-.rainbow-bg{
-		animation: rainbow-bg 2.5s linear;
-		animation-iteration-count: infinite;
-}
 
-.rainbow{
-		animation: rainbow 2.5s linear;
-		animation-iteration-count: infinite;
-}
-
-@keyframes rainbow-bg{
-		100%,0%{
-			background-color: rgb(255,0,0);
-		}
-		8%{
-			background-color: rgb(255,127,0);
-		}
-		16%{
-			background-color: rgb(255,255,0);
-		}
-		25%{
-			background-color: rgb(127,255,0);
-		}
-		33%{
-			background-color: rgb(0,255,0);
-		}
-		41%{
-			background-color: rgb(0,255,127);
-		}
-		50%{
-			background-color: rgb(0,255,255);
-		}
-		58%{
-			background-color: rgb(0,127,255);
-		}
-		66%{
-			background-color: rgb(0,0,255);
-		}
-		75%{
-			background-color: rgb(127,0,255);
-		}
-		83%{
-			background-color: rgb(255,0,255);
-		}
-		91%{
-			background-color: rgb(255,0,127);
-		}
-}
-
-@keyframes rainbow{
-		100%,0%{
-			color: rgb(255,0,0);
-		}
-		8%{
-			color: rgb(255,127,0);
-		}
-		16%{
-			color: rgb(255,255,0);
-		}
-		25%{
-			color: rgb(127,255,0);
-		}
-		33%{
-			color: rgb(0,255,0);
-		}
-		41%{
-			color: rgb(0,255,127);
-		}
-		50%{
-			color: rgb(0,255,255);
-		}
-		58%{
-			color: rgb(0,127,255);
-		}
-		66%{
-			color: rgb(0,0,255);
-		}
-		75%{
-			color: rgb(127,0,255);
-		}
-		83%{
-			color: rgb(255,0,255);
-		}
-		91%{
-			color: rgb(255,0,127);
-		}
-}
