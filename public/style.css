@@ -4,6 +4,23 @@ body {
   background-color: #000000;
 }
 
+
+/* LINK */
+
+.link {
+  text-decoration: none;
+  color: white;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.link:hover span[class] {
+  text-decoration: underline;
+}
+
+/* END */
 /* Footer */
 
 .footer {
