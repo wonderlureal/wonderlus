@@ -4,6 +4,29 @@ body {
   background-color: #000000;
 }
 
+/* Footer */
+
+.footer {
+  color: var(--text);
+  margin-top: auto;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  margin-bottom: 5px;
+}
+
+.footermiddle {
+  margin: 0 auto;
+}
+
+.footersides {
+  margin: 0 10px;
+}
+
+/* END */
+
 /* Fork Me Button */
 * {
   box-sizing: border-box;
@@ -100,19 +123,20 @@ h1 {
 }
 input {
 
-  width: 52.5%;
+  width: 44px;
+  height: 44px;
   padding: 20px 20px;
   margin: 10px 0;
   box-sizing: border-box;
-  border: 1px white;
+  border: 3px white;
   border-radius: 10px;
   background-color: #ad9df2;
     transition: 0.5s;
 }
 input[type=text] {
   transition: 0.5s;
-  color: blue; 
-  
+  color: black; 
+  font-size: large;
 
 }
 input:hover {
