@@ -26,7 +26,7 @@ import stars from "../public/backgrounds/stars.json";
 .link:hover {
   text-decoration: underline;
   transition-duration: 0.3s;
-  transform: translate(0px, -10px);
+  transform: translate(0px, -4px);
 }
 
 .link:hover span[class] {
@@ -78,7 +78,7 @@ nav a:hover {
   transition: 1.5s;
   border-radius: 35px;
   transition-duration: 0.3s;
-  transform: translate(0px, -10px);
+  transform: translate(0px, -4px);
 }
 
 nav a.active {
@@ -94,7 +94,7 @@ nav a.active:hover {
   transition: 1.5s;
   border-radius: 35px;
   transition-duration: 0.3s;
-  transform: translate(0px, -10px);
+  transform: translate(0px, -4px);
 }
 
 nav .icon {
