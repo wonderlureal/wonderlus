@@ -16,16 +16,16 @@ nav a {
 }
 
 nav a:hover {
-  background-color: #0f0f0f;
+  background-color: #2493ff;
   color: #ffffff;
   transition: 1.5s;
-  border-radius: 10px;
+  border-radius: 6px;
 }
 
 nav a.active {
-  background-color: #ad9df2;
+  background-color: #2493ff;
   color: white;
-  border-radius: 10px;
+  border-radius: 6px;
   
 }
 
@@ -67,7 +67,7 @@ nav2 a:hover {
 }
 
 nav2 a.active {
-  background-color: #ad9df2;
+  background-color: #2493ff;
   color: white;
   border-radius: 10px;
   
