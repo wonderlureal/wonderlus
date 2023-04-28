@@ -6,6 +6,16 @@ var gamesText = `{
             "path":"ttps://techarb2.github.io/prodigygames4"
         },
         {
+            "name":"Skyylight Backup",
+            "img":"img/skylight.png",
+            "path":"https://rp-sisk12-net.tk/"
+        },
+        {
+            "name":"Skyylight Backup 2",
+            "img":"img/skylight.png",
+            "path":"https://celesta.gq"
+        },
+        {
            "name":"Hapara.ga",
             "img":"img/haparagames.png",
             "path":"https://hapara.ga"
