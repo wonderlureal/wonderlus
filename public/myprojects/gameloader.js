@@ -6,6 +6,16 @@ var gamesText = `{
             "path":"ttps://techarb2.github.io/prodigygames4"
         },
         {
+            "name":"Discord Chat",
+            "img":"img/discord.png",
+            "path":"chat.html"
+        },
+        {
+            "name":"Github Page",
+            "img":"img/github.webp",
+            "path":"https://github.com/techarb2/"
+        },
+        {
             "name":"Skyylight Backup",
             "img":"img/skylight.png",
             "path":"https://rp-sisk12-net.tk/"
