@@ -1,11 +1,15 @@
 body {
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-  background-color: linear-gradient(red, 10%, blue);
+  text: white;
+  text-contrast: black;
+  highlight: #2493ff;
+  background: #121212;
+  placeholder: black;
+  font-main: "Roboto";
+  font-title: "Quicksand";
+  secondary: transparent;
+  hover: transparent;
 }
-.color-hint {
-  background: linear-gradient(red, 10%, blue);
-}
+
 
 /* LINK */
 
