@@ -1,4 +1,3 @@
-import stars from "../public/backgrounds/stars.json";
 body {
   text: white;
   text-contrast: black;
@@ -14,7 +13,7 @@ body {
   border-radius-secondary: 30px;
   border-radius-round: 100%;
 }
-
+import stars from "../public/backgrounds/stars.json";
 
 /* LINK */
 
