@@ -148,6 +148,8 @@ nav .icon {
 
 h1 {
   font-size: 45.5px;
+  font: Roboto;
+  bottom: 2%;
 }
 input {
 
@@ -211,7 +213,7 @@ flex-direction: row;
 .clock {
     position: absolute;
     width: 350px;
-    top: 3%;
+    top: 4%;
     text-align: right;
     left: 25px;
     transform: translateX(-50%) translateY(-50%);
