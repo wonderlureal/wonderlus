@@ -8,6 +8,10 @@ body {
   font-title: "Quicksand";
   secondary: transparent;
   hover: transparent;
+  
+  border-radius: 6px;
+  border-radius-secondary: 30px;
+  border-radius-round: 100%;
 }
 
 
@@ -102,9 +106,9 @@ nav a:hover {
 }
 
 nav a.active {
-  background-color: #ad9df2;
+  background-color: #2493ff;
   color: white;
-  border-radius: 10px;
+  border-radius: 6px;
   
 }
 
@@ -146,19 +150,19 @@ h1 {
 }
 input {
 
-  width: 690px;
+  width: 640px;
   height: 46px;
   padding: 20px 20px;
   margin: 10px 0;
   box-sizing: border-box;
   border: 3px white;
-  border-radius: 10px;
-  background-color: #ad9df2;
+  border-radius: 6px;
+  background-color: #2493ff;
     transition: 0.5s;
 }
 input[type=text] {
   transition: 0.5s;
-  color: black; 
+  color: white; 
   font-size: large;
 
 }
@@ -201,13 +205,13 @@ flex-direction: row;
     text-align: right;
     left: 25px;
     transform: translateX(-50%) translateY(-50%);
-    color: #ad9df2;
+    color: #2493ff;
     font-size: 25px;
     letter-spacing: 3px;
   
   hr.rounded {
   border-top: 7px solid #bbb;
-  border-radius: 5px;
+  border-radius: 6px;
   color: #ffffff;
     width: 500px;
 }
