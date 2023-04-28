@@ -6,6 +6,11 @@ var gamesText = `{
             "path":"ttps://techarb2.github.io/prodigygames4"
         },
         {
+            "name":"ProdigyGames 2",
+            "img":"img/pg2.png",
+            "path":"ttps://techarb2.github.io/prodigygames2"
+        },
+        {
             "name":"Discord Chat",
             "img":"img/ign.png",
             "path":"chat.html"
