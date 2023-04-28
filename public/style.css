@@ -227,4 +227,27 @@ flex-direction: row;
   color: #ffffff;
     width: 500px;
 }
- 
+
+  
+p {
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+  cor: white;
+}
+
+.center {
+  text-align: center;
+}
+
+h2 {
+  font-size: 20px;
+  text-align: center;
+  color: white;
+}
+
+h3 {
+  font-size: 25px;
+  text-align: center;
+  color: white;
+
