@@ -102,13 +102,13 @@ nav a:hover {
   background-color: 0b86ff;
   color: #ffffff;
   transition: 1.5s;
-  border-radius: 8px;
+  border-radius: 35px;
 }
 
 nav a.active {
   background-color: #2493ff;
   color: white;
-  border-radius: 6px;
+  border-radius: 30px;
   
 }
 
@@ -116,7 +116,7 @@ nav a.active:hover {
   background-color: #0b86ff;
   color: white;
   transition: 1.5s;
-  border-radius: 9px;
+  border-radius: 35px;
 }
 
 nav .icon {
@@ -148,7 +148,7 @@ nav .icon {
 
 h1 {
   font-size: 45.5px;
-  font: Roboto;
+  font: Quicksand;
   bottom: 2%;
 }
 input {
