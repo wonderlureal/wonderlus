@@ -42,7 +42,7 @@ var gamesText = `{
         },
         {
             "name":"Rena Network",
-            "img":"img/rnv3",
+            "img":"img/rnv3.png",
             "path":"https://rnv3.pages.dev"
         },
         {
