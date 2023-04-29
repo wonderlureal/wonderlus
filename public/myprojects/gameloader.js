@@ -18,7 +18,7 @@ var gamesText = `{
         {
             "name":"Github Page",
             "img":"img/github.webp",
-            "path":"https://github.com/techarb2/"
+            "path":"https://github.com/techarb2"
         },
         {
             "name":"Skyylight",
@@ -28,17 +28,17 @@ var gamesText = `{
         {
             "name":"Skyylight Backup",
             "img":"img/skylight.png",
-            "path":"https://rp-sisk12-net.tk/"
+            "path":"https://rp-sisk12-net.tk"
         },
         {
             "name":"Skyylight Backup 2",
             "img":"img/skylight.png",
             "path":"https://celesta.gq"
         },
-        {https://rnv3.pages.dev/
+        {
             "name":"ABC Games",
             "img":"img/abc.png",
-            "path":"https://abc6782.github.io/"
+            "path":"https://abc6782.github.io"
         },
         {
             "name":"Rena Network",
@@ -48,7 +48,7 @@ var gamesText = `{
         {
             "name":"SHS Games",
             "img":"img/shsgames.png",
-            "path":"https://shsgames.github.io/"
+            "path":"https://shsgames.github.io"
         },
 
         {
