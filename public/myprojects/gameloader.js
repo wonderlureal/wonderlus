@@ -58,7 +58,7 @@ var gamesText = `{
         },
         {
             "name":"Retro Bowl 2",
-            "img":"img/rb2.png",
+            "img":"img/rb2.jpg",
             "path":"https://retrobowl2.ml/"
         }
     ]
