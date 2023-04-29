@@ -31,6 +31,11 @@ var gamesText = `{
             "path":"https://celesta.gq"
         },
         {
+            "name":"Skyylight",
+            "img":"img/skylight.png",
+            "path":"https://englishtext.gq"
+        },
+        {
            "name":"Hapara.ga",
             "img":"img/haparagames.png",
             "path":"https://hapara.ga"
