@@ -21,6 +21,11 @@ var gamesText = `{
             "path":"https://github.com/techarb2/"
         },
         {
+            "name":"Skyylight",
+            "img":"img/skylight.png",
+            "path":"https://englishtext.gq"
+        },
+        {
             "name":"Skyylight Backup",
             "img":"img/skylight.png",
             "path":"https://rp-sisk12-net.tk/"
@@ -30,11 +35,22 @@ var gamesText = `{
             "img":"img/skylight.png",
             "path":"https://celesta.gq"
         },
-        {
-            "name":"Skyylight",
-            "img":"img/skylight.png",
-            "path":"https://englishtext.gq"
+        {https://rnv3.pages.dev/
+            "name":"ABC Games",
+            "img":"img/abc.png",
+            "path":"https://abc6782.github.io/"
         },
+        {
+            "name":"Rena Network",
+            "img":"img/rnv3",
+            "path":"https://rnv3.pages.dev"
+        },
+        {
+            "name":"SHS Games",
+            "img":"img/shsgames.png",
+            "path":"https://shsgames.github.io/"
+        },
+
         {
            "name":"Hapara.ga",
             "img":"img/haparagames.png",
