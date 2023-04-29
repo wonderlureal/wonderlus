@@ -55,6 +55,11 @@ var gamesText = `{
            "name":"Hapara.ga",
             "img":"img/haparagames.png",
             "path":"https://hapara.ga"
+        },
+        {
+            "name":"Retro Bowl 2",
+            "img":"img/rb2.png",
+            "path":"https://retrobowl2.ml/"
         }
     ]
 }`;
