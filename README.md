@@ -10,6 +10,6 @@
 
 <p>
 
-### Frontend by Techarb2
+### Frontend by <a href="https://github.com/techarb2">techarb2</a>
 		      
 ## Backend by <a href="https://github.com/titaniumnetwork-dev">Titanium Network</a> and Abnumality
